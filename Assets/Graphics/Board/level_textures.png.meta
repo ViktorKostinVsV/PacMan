@@ -1,0 +1,2341 @@
+fileFormatVersion: 2
+guid: 2ec0eb312f5ea03448a600a510b8db48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4302843695349563921
+    second: board_left_top
+  - first:
+      213: 8676840438646034036
+    second: board_top
+  - first:
+      213: -4372211814184267489
+    second: level_textures_2
+  - first:
+      213: 545609856966901493
+    second: level_textures_3
+  - first:
+      213: -6757656893587050269
+    second: level_textures_4
+  - first:
+      213: 715374704863656391
+    second: level_textures_5
+  - first:
+      213: 8691956812700581113
+    second: level_textures_6
+  - first:
+      213: -4234474155372398058
+    second: level_textures_7
+  - first:
+      213: 7586846172941136531
+    second: level_textures_8
+  - first:
+      213: -1066456962313170432
+    second: level_textures_9
+  - first:
+      213: -5532856430983475859
+    second: level_textures_10
+  - first:
+      213: -3453815627647784277
+    second: level_textures_11
+  - first:
+      213: -1577440440658987397
+    second: level_textures_12
+  - first:
+      213: -1751074751804971340
+    second: level_textures_13
+  - first:
+      213: 5303239857739287588
+    second: level_textures_14
+  - first:
+      213: 2718788639421791278
+    second: level_textures_15
+  - first:
+      213: -6800363572050232710
+    second: level_textures_16
+  - first:
+      213: -8388664742097829625
+    second: level_textures_17
+  - first:
+      213: -6967784967796468948
+    second: level_textures_18
+  - first:
+      213: 6654271777995333267
+    second: level_textures_19
+  - first:
+      213: 3370162165969234454
+    second: level_textures_20
+  - first:
+      213: 8830309467751307315
+    second: level_textures_21
+  - first:
+      213: 2056188313524592155
+    second: small_circl
+  - first:
+      213: -3712815451841399986
+    second: level_textures_23
+  - first:
+      213: -4569288594662402112
+    second: level_textures_24
+  - first:
+      213: 443302416591817125
+    second: level_textures_25
+  - first:
+      213: -8072229550358376177
+    second: level_textures_26
+  - first:
+      213: 8466684536157369664
+    second: level_textures_27
+  - first:
+      213: 2842636162099640139
+    second: board_right_top
+  - first:
+      213: 3540383266120040946
+    second: board_left
+  - first:
+      213: -505770255691719136
+    second: level_textures_30
+  - first:
+      213: -7860922998726893246
+    second: level_textures_31
+  - first:
+      213: 7314950519871475247
+    second: level_textures_32
+  - first:
+      213: -7566618048894736012
+    second: level_textures_33
+  - first:
+      213: -4656718477871670687
+    second: level_textures_34
+  - first:
+      213: -8261813405180280382
+    second: level_textures_35
+  - first:
+      213: -3659777433994533502
+    second: level_textures_36
+  - first:
+      213: 1095836981432640783
+    second: level_textures_37
+  - first:
+      213: -4693752478344412494
+    second: level_textures_38
+  - first:
+      213: -7492978221267442777
+    second: level_textures_39
+  - first:
+      213: 8738257680190619459
+    second: level_textures_40
+  - first:
+      213: 5406389281240048434
+    second: level_textures_41
+  - first:
+      213: 3834935364199119929
+    second: level_textures_42
+  - first:
+      213: -7024104701332176034
+    second: level_textures_43
+  - first:
+      213: 5543300705867793648
+    second: level_textures_44
+  - first:
+      213: 1258949166502742429
+    second: level_textures_45
+  - first:
+      213: -837545741221157607
+    second: level_textures_46
+  - first:
+      213: -6931557501923296724
+    second: level_textures_47
+  - first:
+      213: 3123627205840128269
+    second: level_textures_48
+  - first:
+      213: -4954402673919841582
+    second: level_textures_49
+  - first:
+      213: -7792330727260240155
+    second: level_textures_50
+  - first:
+      213: 6937373975442067230
+    second: level_textures_51
+  - first:
+      213: -123537965052033886
+    second: Right
+  - first:
+      213: -7914671831745663253
+    second: level_textures_53
+  - first:
+      213: 1530108305760873091
+    second: level_textures_54
+  - first:
+      213: 5511316632152714970
+    second: Up
+  - first:
+      213: 4637645498546359763
+    second: down
+  - first:
+      213: 8465568527293993195
+    second: board_right
+  - first:
+      213: -8632424834484686086
+    second: board_left_bot
+  - first:
+      213: 1901834951737400793
+    second: board_bot
+  - first:
+      213: -1597058992274928076
+    second: Angel
+  - first:
+      213: -602193383351911785
+    second: level_textures_61
+  - first:
+      213: 6097843706892557012
+    second: level_textures_62
+  - first:
+      213: -3222120663749917527
+    second: level_textures_63
+  - first:
+      213: -5312473903318093376
+    second: level_textures_64
+  - first:
+      213: -2622699564653320893
+    second: level_textures_65
+  - first:
+      213: -5594684091454192522
+    second: left
+  - first:
+      213: -8118939671744266109
+    second: level_textures_67
+  - first:
+      213: -596757772310643577
+    second: level_textures_68
+  - first:
+      213: 2139503092049923940
+    second: level_textures_69
+  - first:
+      213: -4660670941313582585
+    second: level_textures_70
+  - first:
+      213: 8995895158664322462
+    second: level_textures_71
+  - first:
+      213: 1650870507616651584
+    second: level_textures_72
+  - first:
+      213: 6646313761729127316
+    second: level_textures_73
+  - first:
+      213: 5734785377484317994
+    second: cell1
+  - first:
+      213: -5913848201232372195
+    second: cell8
+  - first:
+      213: 4794055872523704543
+    second: level_textures_76
+  - first:
+      213: -6229226683551680170
+    second: cell9
+  - first:
+      213: 1411776660154692880
+    second: level_textures_78
+  - first:
+      213: 5468718358794250096
+    second: level_textures_79
+  - first:
+      213: -7621645917880916447
+    second: level_textures_80
+  - first:
+      213: -4193111821688163174
+    second: level_textures_81
+  - first:
+      213: -5312794609080319373
+    second: level_textures_82
+  - first:
+      213: -8956309186369385863
+    second: level_textures_83
+  - first:
+      213: 8384360074421412813
+    second: Angel2
+  - first:
+      213: 7693030025553184838
+    second: Bot
+  - first:
+      213: 6652209768916624134
+    second: board_right_bot
+  - first:
+      213: -161688630360261262
+    second: level_textures_87
+  - first:
+      213: 3618472859644426187
+    second: level_textures_88
+  - first:
+      213: -2000380856621524632
+    second: level_textures_89
+  - first:
+      213: -1595512544421115677
+    second: level_textures_90
+  - first:
+      213: -8505457408064427136
+    second: level_textures_91
+  - first:
+      213: 2167018631347465296
+    second: level_textures_92
+  - first:
+      213: -1477344318195823636
+    second: level_textures_93
+  - first:
+      213: -4497867588310233373
+    second: level_textures_94
+  - first:
+      213: -5690706804639780978
+    second: level_textures_95
+  - first:
+      213: -2222159339503435217
+    second: level_textures_96
+  - first:
+      213: 8737674338343584827
+    second: level_textures_97
+  - first:
+      213: 7723916802549717833
+    second: level_textures_98
+  - first:
+      213: -8329445993303498572
+    second: level_textures_99
+  - first:
+      213: 1622954988525454961
+    second: level_textures_100
+  - first:
+      213: 9222828637020263883
+    second: level_textures_101
+  - first:
+      213: 2884433803871098260
+    second: level_textures_102
+  - first:
+      213: -3620257855746551564
+    second: cell2
+  - first:
+      213: -1898144491382834853
+    second: level_textures_104
+  - first:
+      213: -6681996758818802358
+    second: cell6
+  - first:
+      213: -2057199658731990354
+    second: cell7
+  - first:
+      213: -4843509239094218360
+    second: level_textures_107
+  - first:
+      213: -8920711013791248060
+    second: level_textures_108
+  - first:
+      213: -1967586125597169121
+    second: level_textures_109
+  - first:
+      213: 2637307575983949781
+    second: level_textures_110
+  - first:
+      213: -2264785460112844479
+    second: level_textures_111
+  - first:
+      213: 308071504314370118
+    second: level_textures_112
+  - first:
+      213: -153853248662354232
+    second: level_textures_113
+  - first:
+      213: -8817891500795053979
+    second: level_textures_114
+  - first:
+      213: -3362866372789250321
+    second: level_textures_115
+  - first:
+      213: -3772408073799465999
+    second: level_textures_116
+  - first:
+      213: 4693485166233824720
+    second: level_textures_117
+  - first:
+      213: -7872223459350971224
+    second: level_textures_118
+  - first:
+      213: 531200566219802143
+    second: level_textures_119
+  - first:
+      213: -5111447923285716816
+    second: level_textures_120
+  - first:
+      213: 1513860066241869905
+    second: level_textures_121
+  - first:
+      213: 1268333329350862635
+    second: level_textures_122
+  - first:
+      213: 3428282826290858219
+    second: level_textures_123
+  - first:
+      213: -2310027066229891139
+    second: level_textures_124
+  - first:
+      213: -4269570994431383251
+    second: level_textures_125
+  - first:
+      213: -3389957345678063776
+    second: level_textures_126
+  - first:
+      213: 2450121762877083056
+    second: level_textures_127
+  - first:
+      213: 4911881948292745769
+    second: level_textures_128
+  - first:
+      213: 4816689740661616861
+    second: level_textures_129
+  - first:
+      213: 6291013258616196222
+    second: level_textures_130
+  - first:
+      213: 1605439000821434913
+    second: level_textures_131
+  - first:
+      213: 6860434239039273511
+    second: cell3
+  - first:
+      213: 1632268094786804723
+    second: cell4
+  - first:
+      213: -6003080240070505250
+    second: level_textures_134
+  - first:
+      213: -3457178154134537335
+    second: cell5
+  - first:
+      213: -1073952937058500151
+    second: level_textures_136
+  - first:
+      213: 4295197302598814775
+    second: level_textures_137
+  - first:
+      213: -983201120456887731
+    second: level_textures_138
+  - first:
+      213: 2442243060557555758
+    second: level_textures_139
+  - first:
+      213: -3448799198743850409
+    second: level_textures_140
+  - first:
+      213: -7158306366275004995
+    second: level_textures_141
+  - first:
+      213: 177965490331961692
+    second: Angel3
+  - first:
+      213: 5690174079830173211
+    second: Angel4
+  - first:
+      213: 8920802795319826709
+    second: level_textures_144
+  - first:
+      213: 5818789358010110979
+    second: level_textures_145
+  - first:
+      213: -5092782788791099063
+    second: level_textures_146
+  - first:
+      213: 7514092763631591445
+    second: level_textures_147
+  - first:
+      213: -9084155852186491431
+    second: level_textures_148
+  - first:
+      213: 7799917939098846774
+    second: level_textures_149
+  - first:
+      213: 4488125477782748821
+    second: level_textures_150
+  - first:
+      213: 9099935126893727459
+    second: level_textures_151
+  - first:
+      213: 4473151491433307624
+    second: level_textures_152
+  - first:
+      213: -1497025044406566775
+    second: level_textures_153
+  - first:
+      213: 6941195769013343464
+    second: level_textures_154
+  - first:
+      213: -2116137758894754360
+    second: level_textures_155
+  - first:
+      213: -7734193414476272558
+    second: level_textures_156
+  - first:
+      213: 8394543933611743812
+    second: level_textures_157
+  - first:
+      213: 2035833020760067419
+    second: level_textures_158
+  - first:
+      213: 5081988173486844616
+    second: level_textures_159
+  - first:
+      213: 2729015868137262560
+    second: level_textures_160
+  - first:
+      213: 1377298755106445498
+    second: level_textures_161
+  - first:
+      213: 7985048010853189197
+    second: centr2
+  - first:
+      213: 1103405253216742287
+    second: center
+  - first:
+      213: 9045128745732137903
+    second: level_textures_164
+  - first:
+      213: 5191568279610317844
+    second: level_textures_165
+  - first:
+      213: -1654340428271980410
+    second: level_textures_166
+  - first:
+      213: 240996534879034482
+    second: level_textures_167
+  - first:
+      213: -4591242850251638412
+    second: level_textures_168
+  - first:
+      213: -4256701885977538215
+    second: level_textures_169
+  - first:
+      213: 4937737440131252985
+    second: level_textures_170
+  - first:
+      213: -5520230778207516862
+    second: level_textures_171
+  - first:
+      213: -277011065382839148
+    second: level_textures_172
+  - first:
+      213: 3842651746865708639
+    second: level_textures_173
+  - first:
+      213: 3249749551067832129
+    second: level_textures_174
+  - first:
+      213: -4569417919473444128
+    second: level_textures_175
+  - first:
+      213: 3960563607742561040
+    second: level_textures_176
+  - first:
+      213: 2148048163512889034
+    second: Horizontal_left_top
+  - first:
+      213: 5723254681242354069
+    second: horizontal_top
+  - first:
+      213: 8990003636248055883
+    second: level_textures_179
+  - first:
+      213: 3422480139873405041
+    second: level_textures_180
+  - first:
+      213: 5706904923977793863
+    second: level_textures_181
+  - first:
+      213: -8429241010219218827
+    second: horizontal_right_top
+  - first:
+      213: 2559057368237945396
+    second: level_textures_183
+  - first:
+      213: 5680101512703396955
+    second: level_textures_184
+  - first:
+      213: 3885511006139961673
+    second: level_textures_185
+  - first:
+      213: 7872077076570705386
+    second: level_textures_186
+  - first:
+      213: 315194076194928667
+    second: level_textures_187
+  - first:
+      213: 3373250591471156033
+    second: level_textures_188
+  - first:
+      213: -4482663299466080899
+    second: 11
+  - first:
+      213: 5266843886580832557
+    second: level_textures_190
+  - first:
+      213: 5370550701760382475
+    second: level_textures_191
+  - first:
+      213: -7925059055749703044
+    second: level_textures_192
+  - first:
+      213: 8727371431829696697
+    second: level_textures_193
+  - first:
+      213: -5418939118153596064
+    second: level_textures_194
+  - first:
+      213: -5800423177805618329
+    second: level_textures_195
+  - first:
+      213: 6969234894489939768
+    second: level_textures_196
+  - first:
+      213: 4348131442375363039
+    second: level_textures_197
+  - first:
+      213: 7268763534064752667
+    second: level_textures_198
+  - first:
+      213: 8544129040151946402
+    second: level_textures_199
+  - first:
+      213: -3547525280555845466
+    second: level_textures_200
+  - first:
+      213: 5268173926269748292
+    second: level_textures_201
+  - first:
+      213: 4277642145711536675
+    second: level_textures_202
+  - first:
+      213: -8164995949978665993
+    second: level_textures_203
+  - first:
+      213: 1210760513385609901
+    second: level_textures_204
+  - first:
+      213: 9021997960503617050
+    second: level_textures_205
+  - first:
+      213: -4614480760387046413
+    second: horizontal_left_bot
+  - first:
+      213: -4664460912023428308
+    second: horizontal_bot
+  - first:
+      213: 6261506143506360713
+    second: level_textures_208
+  - first:
+      213: -3952255679383236389
+    second: level_textures_209
+  - first:
+      213: -6363200340763901620
+    second: level_textures_210
+  - first:
+      213: -4845024756908330213
+    second: horizontal_right_bot
+  - first:
+      213: -4229297653407934195
+    second: Pipe
+  - first:
+      213: -5764132896386021940
+    second: level_textures_213
+  - first:
+      213: -4893963744676761337
+    second: level_textures_214
+  - first:
+      213: -2546153361106141257
+    second: level_textures_215
+  - first:
+      213: -8364958441210409380
+    second: level_textures_216
+  - first:
+      213: -1005633030499223606
+    second: level_textures_217
+  - first:
+      213: 514434504652975445
+    second: 12
+  - first:
+      213: -2620861682809794617
+    second: level_textures_219
+  - first:
+      213: -714247840253698006
+    second: 14
+  - first:
+      213: -4565086111429538706
+    second: 24
+  - first:
+      213: -7546895433263536592
+    second: circl
+  - first:
+      213: -9187304502086314988
+    second: level_textures_223
+  - first:
+      213: 1050408435821748374
+    second: level_textures_224
+  - first:
+      213: 7421910147165965407
+    second: level_textures_225
+  - first:
+      213: -4822844624825018382
+    second: level_textures_226
+  - first:
+      213: 4033360545395606512
+    second: level_textures_227
+  - first:
+      213: 2548890961248056734
+    second: level_textures_228
+  - first:
+      213: 1049986634555379671
+    second: level_textures_229
+  - first:
+      213: 918218605807910828
+    second: level_textures_230
+  - first:
+      213: -1540946971033348533
+    second: level_textures_231
+  - first:
+      213: 6060979114838280196
+    second: level_textures_0
+  - first:
+      213: 876866944629669731
+    second: level_textures_1
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: board_left_top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedf8aed47a3944c0800000000000000
+      internalID: -4302843695349563921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: board_top
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 132
+        width: 16
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ecd3638645a6870800000000000000
+      internalID: 8676840438646034036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_circl
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 20
+        width: 4
+        height: 8
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e51f2806c098c10800000000000000
+      internalID: 2056188313524592155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e437964940e697cc0800000000000000
+      internalID: -3712815451841399986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: board_right_top
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 120
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47f0ab4782137720800000000000000
+      internalID: 2842636162099640139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: board_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 4
+        height: 16
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f182d1a2d7f12130800000000000000
+      internalID: 3540383266120040946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e5983d1a42bf8f0800000000000000
+      internalID: -505770255691719136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2416f2e7e2468e290800000000000000
+      internalID: -7860922998726893246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_46
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9152f5bf5907064f0800000000000000
+      internalID: -837545741221157607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f8348ffd0864060800000000000000
+      internalID: 6937373975442067230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 104
+        width: 1
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a48cc410ea194ef0800000000000000
+      internalID: -123537965052033886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee620b17ef692290800000000000000
+      internalID: -7914671831745663253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a60c0b5690c3510800000000000000
+      internalID: 1530108305760873091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 108
+        width: 16
+        height: 1
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade2a28d6412c7c40800000000000000
+      internalID: 5511316632152714970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: down
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd8b07720a3c5040800000000000000
+      internalID: 4637645498546359763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: board_right
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 104
+        width: 4
+        height: 16
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0d51b19bdbb7570800000000000000
+      internalID: 8465568527293993195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: board_left_bot
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2b74e7957733880800000000000000
+      internalID: -8632424834484686086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: board_bot
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 16
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dddabfefcca46a10800000000000000
+      internalID: 1901834951737400793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 4
+        height: 4
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e0c10ee4b16d9e0800000000000000
+      internalID: -1597058992274928076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_65
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345644044ac4a9bd0800000000000000
+      internalID: -2622699564653320893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 104
+        width: 1
+        height: 16
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6740852f570bb52b0800000000000000
+      internalID: -5594684091454192522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3804bd0726bb35f80800000000000000
+      internalID: -8118939671744266109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c7874c7f3e7b7f0800000000000000
+      internalID: -596757772310643577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25ae08aaec069f40800000000000000
+      internalID: 5734785377484317994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e26f5d46acdeda0800000000000000
+      internalID: -5913848201232372195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_76
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd896238a68e78240800000000000000
+      internalID: 4794055872523704543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 75
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659748dc5575d89a0800000000000000
+      internalID: -6229226683551680170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_80
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126e6ec3b697a3690800000000000000
+      internalID: -7621645917880916447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_81
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9439c4a3031fc5c0800000000000000
+      internalID: -4193111821688163174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372482193792546b0800000000000000
+      internalID: -5312794609080319373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_83
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a82ef5f3cc4b380800000000000000
+      internalID: -8956309186369385863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 88
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.75, y: 0.25}
+      border: {x: 0, y: 1, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc32bd0c01b3b5470800000000000000
+      internalID: 8384360074421412813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bot
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 88
+        width: 16
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648038f7c0223ca60800000000000000
+      internalID: 7693030025553184838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: board_right_bot
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 88
+        width: 16
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603a8a73a85615c50800000000000000
+      internalID: 6652209768916624134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f2c84df4c8601b0800000000000000
+      internalID: -5690706804639780978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0d8e049a242cdc0800000000000000
+      internalID: -3620257855746551564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_104
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59f2c254af68a5e0800000000000000
+      internalID: -1898144491382834853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a453b40c957c443a0800000000000000
+      internalID: -6681996758818802358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea299355fcb5373e0800000000000000
+      internalID: -2057199658731990354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_109
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a2bcee7dab1b4e0800000000000000
+      internalID: -1967586125597169121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_110
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d748fd6449999420800000000000000
+      internalID: 2637307575983949781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14911859f9dd190e0800000000000000
+      internalID: -2264785460112844479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_112
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6480414a66d764400800000000000000
+      internalID: 308071504314370118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac73e8f87e30c290800000000000000
+      internalID: -7872223459350971224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf54df4f9221ffd0800000000000000
+      internalID: -2310027066229891139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72afcde9798253f50800000000000000
+      internalID: 6860434239039273511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb98ff1f2bf6a610800000000000000
+      internalID: 1632268094786804723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc4e6cc356c0bca0800000000000000
+      internalID: -6003080240070505250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cell5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bf19529c2a500d0800000000000000
+      internalID: -3457178154134537335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_138
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42b6684ac7fa52f0800000000000000
+      internalID: -983201120456887731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_139
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2822bfbf1794e120800000000000000
+      internalID: 2442243060557555758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7529839b6676320d0800000000000000
+      internalID: -3448799198743850409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_141
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5d2c4494698ac90800000000000000
+      internalID: -7158306366275004995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 76
+        width: 4
+        height: 4
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59c389aba2487200800000000000000
+      internalID: 177965490331961692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 56
+        width: 4
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16a9628d2f87fe40800000000000000
+      internalID: 5690174079830173211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_147
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5102891ae8b674860800000000000000
+      internalID: 7514092763631591445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_152
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed1469e493d31e30800000000000000
+      internalID: 4473151491433307624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_154
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e41c70a6c4145060800000000000000
+      internalID: 6941195769013343464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_155
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c579498be7f1a2e0800000000000000
+      internalID: -2116137758894754360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_167
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c90955211385300800000000000000
+      internalID: 240996534879034482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_168
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479f23104f0a840c0800000000000000
+      internalID: -4591242850251638412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_169
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951d29b00382de4c0800000000000000
+      internalID: -4256701885977538215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_170
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f28b216a0e568440800000000000000
+      internalID: 4937737440131252985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dc4a3ba716ac1c0800000000000000
+      internalID: -4482663299466080899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_194
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0638cf2359f0cc4b0800000000000000
+      internalID: -5418939118153596064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_201
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444884226405c1940800000000000000
+      internalID: 5268173926269748292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 8
+        width: 8
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d091a3721348e45c0800000000000000
+      internalID: -4229297653407934195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d6b06d473a32700800000000000000
+      internalID: 514434504652975445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 71
+        width: 6
+        height: 6
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20a610af5b7616f0800000000000000
+      internalID: -714247840253698006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circl
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 6
+        width: 8
+        height: 14
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0362f4fa69a044790800000000000000
+      internalID: -7546895433263536592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_230
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafb55105fa2ebc00800000000000000
+      internalID: 918218605807910828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level_textures_0
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 106
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4084ffa746cec1450800000000000000
+      internalID: 6060979114838280196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
